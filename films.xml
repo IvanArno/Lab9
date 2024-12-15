@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<filmlist>
+    <film director="Кристофер Нолан" genre="Научная фантастика" name="Начало" session="18:00" studio="Warner Bros." ticketsSold="250" year="2010"/>
+    <film director="Том Хупер" genre="Фэнтези" name="Темные начала" session="20:30" studio="New Line Cinema" ticketsSold="80" year="2021"/>
+    <film director="Дени Вильнёв" genre="Научная фантастика" name="Дюна" session="19:00" studio="Legendary Pictures" ticketsSold="300" year="2021"/>
+    <film director="Гай Ричи" genre="Комедия" name="Джентльмены" session="21:45" studio="STX Films" ticketsSold="150" year="2019"/>
+    <film director="Питер Фаррелли" genre="Драма" name="Зеленая книга" session="17:30" studio="Participant Media" ticketsSold="180" year="2018"/>
+    <film director="Ли Анкрих" genre="Анимация" name="Тайна Коко" session="15:00" studio="Pixar Animation Studios" ticketsSold="120" year="2017"/>
+    <film director="Энтони Руссо, Джо Руссо" genre="Экшн" name="Мстители: Финал" session="20:00" studio="Marvel Studios" ticketsSold="400" year="2019"/>
+    <film director="Мартин Скорсезе" genre="Криминал" name="Славные парни" session="22:15" studio="Netflix" ticketsSold="90" year="2019"/>
+    <film director="Френсис Форд Кополла" genre="Криминал" name="Крестный отец" session="22:00" studio="Paramount Pictures" ticketsSold="600" year="1972"/>
+</filmlist>
